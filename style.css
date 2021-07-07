@@ -1,9 +1,10 @@
 h1{
     text-align: center;
+    font-size: 1.3rem;
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 div {
@@ -12,6 +13,23 @@ div {
 }
 
 #btn {
-    padding: 5px;
-    font-size: 1.5rem;
+    padding: 2px;
+    font-size: 0.9rem;
+    border-radius: 5px;
+    outline: none;
+}
+
+@media (min-width:768px) {
+    h1 {
+        font-size: 1.5rem;
+      }
+
+    p {
+        font-size: 1.2rem;
+    }  
+
+    #btn {
+        padding: 5px;
+        font-size: 1.2rem;
+    }
 }
