@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+div {
+    margin: 12rem auto;
+    text-align: center;
+}
+
+#btn {
+    padding: 5px;
+    font-size: 1.5rem;
+}
