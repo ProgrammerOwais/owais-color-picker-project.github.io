@@ -4,5 +4,5 @@
  by simply clicking on button.
  
  ### links 
- -live site url is : https://programmerowais.github.io/owais-color-picker-project.github.io/
+ - live site url is : https://programmerowais.github.io/owais-color-picker-project.github.io/
  - code site url is : https://github.com/ProgrammerOwais/owais-color-picker-project.github.io
